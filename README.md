@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omck4heroes
-- 👀 I’m interested in Neverwinter Nights Expanded Edition coding
+- 👀 I’m interested in Neverwinter Nights Enhanced Edition coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord, Omck4heroes#2235
